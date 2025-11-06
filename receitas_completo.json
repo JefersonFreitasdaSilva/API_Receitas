@@ -4143,6 +4143,174 @@
     "Restricoes": []
   },
   {
+    "IdReceita": 219,
+    "NomeReceita": "Pera",
+    "CaloriasTotais": 63.6,
+    "RendimentoPorcoes": 1.0,
+    "Imagem": "https://cdn.namu.net.br/content-pics/food/dishes-cover/dc-pa00219.jpg",
+    "Tag": "Frutas",
+    "Ingredientes": [
+      {
+        "IdIngrediente": 352,
+        "NomeIngrediente": "Pera",
+        "Quantidade": 120.0
+      }
+    ],
+    "Macronutrientes": [
+      {
+        "Tipo": "Açúcar",
+        "Valor": 11.76,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Carboidratos",
+        "Valor": 16.8,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Gorduras Totais",
+        "Valor": 0.12,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Proteína",
+        "Valor": 0.72,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Ferro",
+        "Valor": 0.12,
+        "Unidade": "miligramas",
+        "Sigla": "mg"
+      },
+      {
+        "Tipo": "Calorias",
+        "Valor": 63.6,
+        "Unidade": "Kilocalorias",
+        "Sigla": "kcal"
+      }
+    ],
+    "Restricoes": [
+      "Frutas Cítricas"
+    ]
+  },
+  {
+    "IdReceita": 278,
+    "NomeReceita": "Kiwi",
+    "CaloriasTotais": 38.76,
+    "RendimentoPorcoes": 1.0,
+    "Imagem": "https://cdn.namu.net.br/content-pics/food/dishes-cover/dc-pa00278.jpg",
+    "Tag": "Café da manhã",
+    "Ingredientes": [
+      {
+        "IdIngrediente": 253,
+        "NomeIngrediente": "Kiwi",
+        "Quantidade": 76.0
+      }
+    ],
+    "Macronutrientes": [
+      {
+        "Tipo": "Açúcar",
+        "Valor": 6.84,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Carboidratos",
+        "Valor": 8.74,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Gorduras Totais",
+        "Valor": 0.46,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Proteína",
+        "Valor": 0.99,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Ferro",
+        "Valor": 0.23,
+        "Unidade": "miligramas",
+        "Sigla": "mg"
+      },
+      {
+        "Tipo": "Calorias",
+        "Valor": 38.76,
+        "Unidade": "Kilocalorias",
+        "Sigla": "kcal"
+      }
+    ],
+    "Restricoes": [
+      "Frutas Cítricas"
+    ]
+  },
+  {
+    "IdReceita": 303,
+    "NomeReceita": "Uva",
+    "CaloriasTotais": 31.38,
+    "RendimentoPorcoes": 1.0,
+    "Imagem": "https://cdn.namu.net.br/content-pics/food/dishes-cover/dc-pa00303.jpg",
+    "Tag": "Frutas",
+    "Ingredientes": [
+      {
+        "IdIngrediente": 449,
+        "NomeIngrediente": "Uva",
+        "Quantidade": 60.0
+      }
+    ],
+    "Macronutrientes": [
+      {
+        "Tipo": "Açúcar",
+        "Valor": 9.3,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Carboidratos",
+        "Valor": 8.16,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Gorduras Totais",
+        "Valor": 0.12,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Proteína",
+        "Valor": 0.42,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Ferro",
+        "Valor": 0.06,
+        "Unidade": "miligramas",
+        "Sigla": "mg"
+      },
+      {
+        "Tipo": "Calorias",
+        "Valor": 31.38,
+        "Unidade": "Kilocalorias",
+        "Sigla": "kcal"
+      }
+    ],
+    "Restricoes": [
+      "Frutas Cítricas"
+    ]
+  },
+  {
     "IdReceita": 336,
     "NomeReceita": "Espaguete de abobrinha com ragu de cogumelos",
     "CaloriasTotais": 337.39,
@@ -4373,6 +4541,50 @@
       "Lactose",
       "Ovo",
       "Pimenta"
+    ]
+  },
+  {
+    "IdReceita": 593,
+    "NomeReceita": "Ameixa",
+    "CaloriasTotais": 26.25,
+    "RendimentoPorcoes": 0.5,
+    "Imagem": "https://cdn.namu.net.br/content-pics/food/dishes-cover/dc-pa00593.jpg",
+    "Tag": "Frutas",
+    "Ingredientes": [
+      {
+        "IdIngrediente": 42,
+        "NomeIngrediente": "Ameixa fresca",
+        "Quantidade": 50.0
+      }
+    ],
+    "Macronutrientes": [
+      {
+        "Tipo": "Carboidratos",
+        "Valor": 6.95,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Proteína",
+        "Valor": 0.35,
+        "Unidade": "gramas",
+        "Sigla": "g"
+      },
+      {
+        "Tipo": "Ferro",
+        "Valor": 0.05,
+        "Unidade": "miligramas",
+        "Sigla": "mg"
+      },
+      {
+        "Tipo": "Calorias",
+        "Valor": 26.25,
+        "Unidade": "Kilocalorias",
+        "Sigla": "kcal"
+      }
+    ],
+    "Restricoes": [
+      "Frutas Cítricas"
     ]
   },
   {
